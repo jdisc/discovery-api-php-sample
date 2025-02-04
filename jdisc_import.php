@@ -11,8 +11,8 @@
 
 // !!! Update defines below with your values !!!
 define("JDISC_GRAPH_QL_URL"     , "https://127.0.0.1/graphql"); // Replace 127.0.0.1 with your IP address
-define("JDISC_GRAPH_QL_USER"    , "Administrator");   // Replace Administrator with username
-define("JDISC_GRAPH_QL_PASSWORD", "<your_password>"); // Put your password
+define("JDISC_GRAPH_QL_USER"    , "Administrator");             // Replace Administrator with username
+define("JDISC_GRAPH_QL_PASSWORD", "<your_password>");           // Put your password
 
 //#######################################################################################
 //##                                    Functions()                                    ##
